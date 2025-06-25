@@ -61,11 +61,10 @@ function Footer() {
       © {new Date().getFullYear()} Akhilesh Reddy. | Design by <strong className="text-white">Akhilesh</strong>
     </p>
     <div className="mt-2 fs-5">
-      <a href="#" className="text-white me-3"><FaFacebookF /></a>
       <a href="https://github.com/akhilesh-reddy2005" className="text-white me-3"><FaGithub /></a>
-      <a href="#" className="text-white me-3"><FaTwitter /></a>
+      <a href="https://x.com/LYRICSL51362915" className="text-white me-3"><FaTwitter /></a>
       <a href="https://linkedin.com/in/akhilesh-reddy-612580292" className="text-white me-3"><FaLinkedin /></a>
-      <a href="#" className="text-white"><FaInstagram /></a>
+      <a href="https://www.instagram.com/akhilesh_reddy117?igsh=MTFveG9xYm95ODFzeg==" className="text-white"><FaInstagram /></a>
     </div>
   </Col>
 </Row>
